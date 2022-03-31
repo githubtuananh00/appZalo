@@ -1,0 +1,53 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="8">
+            <item index="0" class="java.lang.String" itemvalue="nobr" />
+            <item index="1" class="java.lang.String" itemvalue="noembed" />
+            <item index="2" class="java.lang.String" itemvalue="comment" />
+            <item index="3" class="java.lang.String" itemvalue="noscript" />
+            <item index="4" class="java.lang.String" itemvalue="embed" />
+            <item index="5" class="java.lang.String" itemvalue="script" />
+            <item index="6" class="java.lang.String" itemvalue="hr" />
+            <item index="7" class="java.lang.String" itemvalue="br" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyArgumentListInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N802" />
+          <option value="N813" />
+          <option value="N801" />
+          <option value="N803" />
+          <option value="N806" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="myclub_website.events.models.Venue.*" />
+          <option value="myclub_website.events.models.Event.*" />
+          <option value="PyQt5.*" />
+          <option value="a.fullname.setter" />
+          <option value="django.db.models.fields.DateTimeField.date" />
+          <option value="django.db.models.fields.CharField.__add__" />
+          <option value="ablog.theblog.models.Post.id" />
+          <option value="ablog.members.views.*" />
+          <option value="ablog.members.forms.theblog" />
+          <option value="django.db.models.fields.related.ForeignKey.title" />
+          <option value="djangodb.website.models.Members.objects" />
+          <option value="ablog.theblog.models.Category.objects" />
+          <option value="ablog.theblog.models.Post.objects" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
